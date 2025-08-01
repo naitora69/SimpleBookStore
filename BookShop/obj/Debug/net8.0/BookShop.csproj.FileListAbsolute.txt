@@ -103,3 +103,4 @@
 /home/naitora/RiderProjects/BookShop/BookShop/obj/Debug/net8.0/BookShop.pdb
 /home/naitora/RiderProjects/BookShop/BookShop/obj/Debug/net8.0/BookShop.genruntimeconfig.cache
 /home/naitora/RiderProjects/BookShop/BookShop/obj/Debug/net8.0/ref/BookShop.dll
+/home/naitora/RiderProjects/BookShop/BookShop/obj/Debug/net8.0/BookShop.sourcelink.json
