@@ -19,6 +19,8 @@ class Program
             if (answer == "GETALL")
             {
                 await services.GetAll(Uri, httpClient);
+                var response = await httpClient.GetAsync(Uri);
+                Console.WriteLine(response.StatusCode);
             }
 
 

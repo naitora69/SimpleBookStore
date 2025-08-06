@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookShop", "BookShop\BookSh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientHttp", "ClientHttp\ClientHttp.csproj", "{0176D997-295F-4201-BC96-34908A104C7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookShopIntegrationTest", "BookShopIntegrationTest\BookShopIntegrationTest.csproj", "{39A36045-DD8D-4953-B306-6EABC15F5775}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{0176D997-295F-4201-BC96-34908A104C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0176D997-295F-4201-BC96-34908A104C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0176D997-295F-4201-BC96-34908A104C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39A36045-DD8D-4953-B306-6EABC15F5775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A36045-DD8D-4953-B306-6EABC15F5775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A36045-DD8D-4953-B306-6EABC15F5775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A36045-DD8D-4953-B306-6EABC15F5775}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
